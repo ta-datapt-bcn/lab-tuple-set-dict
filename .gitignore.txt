@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
 
 #CSV
-*/.csv/*
+.csv
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
