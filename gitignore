@@ -1,8 +1,6 @@
 # Created by https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
 
-#CSV
-*/.csv/*
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
